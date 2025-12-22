@@ -325,4 +325,5 @@ For support, email support@vsms.com or create an issue in the repository.
 
 **Built with ❤️ for safer workplaces**
 #   s a f t y  
+ #   s a f t y  
  
